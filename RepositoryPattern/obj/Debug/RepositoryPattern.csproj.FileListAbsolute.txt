@@ -1,0 +1,12 @@
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\RepositoryPattern.exe
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\EntityFramework.dll
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\EntityFramework.xml
+D:\Study\Projects\SteadyReaders\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Projects\SteadyReaders\RepositoryPattern\obj\Debug\RepositoryPattern.csprojAssemblyReference.cache
+D:\Study\Projects\SteadyReaders\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\Study\Projects\SteadyReaders\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CopyComplete
+D:\Study\Projects\SteadyReaders\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+D:\Study\Projects\SteadyReaders\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
